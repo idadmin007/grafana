@@ -99,9 +99,9 @@ image:
   # -- The Docker registry
   registry: docker.io
   # -- Docker image repository
-  repository: grafana/grafana
+  repository: class01008/grafana
   # Overrides the Grafana image tag whose default is the chart appVersion
-  tag: ""
+  tag: v1
   sha: ""
   pullPolicy: IfNotPresent
 
